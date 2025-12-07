@@ -14,4 +14,4 @@ An image captioner using BLIP - a multimodal model from salesforce. Takes an Ima
 - python app.py
 
 # Output:
-![Gradio Interface](output/Screenshot 2025-12-07 at 11.55.47 PM.png "Image Captioner")
+![Gradio Interface](output/ImageCaptionerOutput.png)
